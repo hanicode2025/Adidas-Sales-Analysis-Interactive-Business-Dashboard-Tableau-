@@ -34,10 +34,7 @@ This project presents a comprehensive sales analysis of Adidas data using an int
 - Regional and state-level sales insights  
 - Sales method breakdown (Online, In-store, Outlet)  
 - Operating profit analysis by region  
-- Retailer contribution analysis  
-
-## 🖼️ Dashboard Preview
-![Dashboard](add-your-screenshot-here.png)
+- Retailer contribution analysis
 
 ## 🚀 How to Use
 1. Open the Tableau workbook file (.twbx)  
@@ -48,6 +45,6 @@ This project presents a comprehensive sales analysis of Adidas data using an int
 [https://public.tableau.com/app/profile/tadepalli.haneesh/viz/your-dashboard-link
 ](https://public.tableau.com/app/profile/tadepalli.haneesh/viz/AdidasUSSalesDashboard_17736656581120/Dashboard1)
 ## 🔗 Connect with Me
-- 💼 LinkedIn: [https://www.linkedin.com/in/your-username](https://www.linkedin.com/in/haneeshtadepalli/)  
+- 💼 LinkedIn: [https://www.linkedin.com/in/](https://www.linkedin.com/in/haneeshtadepalli/)  
 - 📧 Email: haneeshtadepalli@gmail.com
 ---
