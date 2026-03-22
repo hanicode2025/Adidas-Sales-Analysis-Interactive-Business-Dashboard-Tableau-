@@ -45,8 +45,8 @@ This project presents a comprehensive sales analysis of Adidas data using an int
 3. Review the PDF for a static version of the dashboard  
 
 ## 🔗 Live Dashboard
-https://public.tableau.com/app/profile/tadepalli.haneesh/viz/your-dashboard-link
-
+[https://public.tableau.com/app/profile/tadepalli.haneesh/viz/your-dashboard-link
+](https://public.tableau.com/app/profile/tadepalli.haneesh/viz/AdidasUSSalesDashboard_17736656581120/Dashboard1)
 ## 🔗 Connect with Me
 - 💼 LinkedIn: https://www.linkedin.com/in/your-username  
 - 💻 GitHub: https://github.com/your-username  
